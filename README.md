@@ -1,7 +1,7 @@
 
 
 
-> Open this page at [maxxkao.github.io/space_alien_v8/](maxxkao.github.io/space_alien_v8/)
+> Open this page at [https://maxxkao.github.io/space_alien_v8/](https://maxxkao.github.io/space_alien_v8/)
 
 ## Use as Extension
 
