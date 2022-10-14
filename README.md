@@ -10,7 +10,7 @@ This repository can be added as an **extension** in MakeCode.
 * open [https://arcade.makecode.com/](https://arcade.makecode.com/)
 * click on **New Project**
 * click on **Extensions** under the gearwheel menu
-* search for **https://github.com/maxxkao/space_alien_v8** and import
+* search for **https://maxxkao.github.io/SPACE_ALIEN_V8/** and import
 
 ## Edit this project ![Build status badge](https://github.com/maxxkao/space_alien_v8/workflows/MakeCode/badge.svg)
 
