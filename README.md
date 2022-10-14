@@ -1,7 +1,7 @@
 
 
 
-> Open this page at [https://maxxkao.github.io/space_alien_v8/](https://maxxkao.github.io/space_alien_v8/)
+> Open this page at [https://maxxkao.github.io/SPACE_ALIEN_V8/](https://maxxkao.github.io/SPACE_ALIEN_V8/)
 
 ## Use as Extension
 
@@ -18,7 +18,7 @@ To edit this repository in MakeCode.
 
 * open [https://arcade.makecode.com/](https://arcade.makecode.com/)
 * click on **Import** then click on **Import URL**
-* paste **https://github.com/maxxkao/space_alien_v8** and click import
+* paste **https://maxxkao.github.io/SPACE_ALIEN_V8/** and click import
 
 ## Blocks preview
 
