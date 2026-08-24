@@ -12,7 +12,7 @@ This repository can be added as an **extension** in MakeCode.
 * click on **Extensions** under the gearwheel menu
 * search for **https://maxxkao.github.io/SPACE_ALIEN_V8/** and import
 
-## Edit this project ![Build status badge]([https://maxxkao.github.io/SPACE_ALIEN_V8/workflows/MakeCode/badge.svg](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6OU4Xmmua9blNWxxe_iOWcicoK_Hy-3Gg_JYWlysLQXOlxqqoRgGmWZJ7jR7xxTai2qzpWPH-erhTAf7wNx3uDj6t7mW0XoVt4d__8geo0Ke9MlnuN84MpGYQXmM6vZxA1nNJUxaCTdZT/w640-h384/MCA_06.jpg))
+## Edit this project !
 
 To edit this repository in MakeCode.
 
@@ -25,8 +25,7 @@ To edit this repository in MakeCode.
 This image shows the blocks code from the last commit in master.
 This image may take a few minutes to refresh.
 
-![A rendered view of the blocks]([https://maxxkao.github.io/SPACE_ALIEN_V8/raw/master/.github/makecode/blocks.png](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhv2u3nCgQBDAFvv5UeHZFUnfoGiuEudHwkj8xsJBJKu8oXcnM-F6N5vMTR8MUCI1MJQZ9NdYyI7oLPwbRiBsr-yUZQaubT_kQB24u93TcYQfI-_gsOYno0hy1i7Ml9bSxXCXdhpKaPWpdk/w640-h384/MCA_07.jpg))
-
+![A rendered view of the blocks]
 #### Metadata (used for search, rendering)
 
 * for PXT/arcade
