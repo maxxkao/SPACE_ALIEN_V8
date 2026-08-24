@@ -12,7 +12,7 @@ This repository can be added as an **extension** in MakeCode.
 * click on **Extensions** under the gearwheel menu
 * search for **https://maxxkao.github.io/SPACE_ALIEN_V8/** and import
 
-## Edit this project ![Build status badge](https://maxxkao.github.io/SPACE_ALIEN_V8/workflows/MakeCode/badge.svg)
+## Edit this project ![Build status badge]([https://maxxkao.github.io/SPACE_ALIEN_V8/workflows/MakeCode/badge.svg](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6OU4Xmmua9blNWxxe_iOWcicoK_Hy-3Gg_JYWlysLQXOlxqqoRgGmWZJ7jR7xxTai2qzpWPH-erhTAf7wNx3uDj6t7mW0XoVt4d__8geo0Ke9MlnuN84MpGYQXmM6vZxA1nNJUxaCTdZT/w640-h384/MCA_06.jpg))
 
 To edit this repository in MakeCode.
 
