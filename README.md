@@ -25,7 +25,7 @@ To edit this repository in MakeCode.
 This image shows the blocks code from the last commit in master.
 This image may take a few minutes to refresh.
 
-![A rendered view of the blocks](https://maxxkao.github.io/SPACE_ALIEN_V8/raw/master/.github/makecode/blocks.png)
+![A rendered view of the blocks]([https://maxxkao.github.io/SPACE_ALIEN_V8/raw/master/.github/makecode/blocks.png](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhv2u3nCgQBDAFvv5UeHZFUnfoGiuEudHwkj8xsJBJKu8oXcnM-F6N5vMTR8MUCI1MJQZ9NdYyI7oLPwbRiBsr-yUZQaubT_kQB24u93TcYQfI-_gsOYno0hy1i7Ml9bSxXCXdhpKaPWpdk/w640-h384/MCA_07.jpg))
 
 #### Metadata (used for search, rendering)
 
