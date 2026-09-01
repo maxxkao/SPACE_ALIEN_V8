@@ -3,6 +3,10 @@
 
 > Open this page at [https://maxxkao.github.io/SPACE_ALIEN_V8/](https://maxxkao.github.io/SPACE_ALIEN_V8/)
 
+## Story
+
+In the year 2050, a massive alien army suddenly launches an all-out attack on Earth. You will pilot “HOPE,” humanity’s last hope, and fight back against the invading alien forces.
+
 ## Use as Extension
 
 This repository can be added as an **extension** in MakeCode.
